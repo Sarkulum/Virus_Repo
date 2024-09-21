@@ -1,1 +1,1 @@
-# Collection of selfmade viruses or modifyed ones.
+Collection of selfmade viruses or modifyed ones.
